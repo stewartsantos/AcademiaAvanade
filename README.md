@@ -69,18 +69,9 @@ Segue arquitetura, linguagem e componentes utilizados na aplicação:
   - Trabalho em equipe
   - Facilidade de se comunicar  
   
-#### Pontos positivos
-  - Elizeu: Facilidade e comunicação e interação entre a equipe 
-  - Helton: Analítico e detalhista
-  - Stewart: Facilidade de Gestão de Projeto, analise de requisitos
-  
-#### Pontos a Melhorar  
-  - Elizeu: Domínio e conhecimento de: C#/.Net, Azure DevOps.
-  - Helton: Domínio e conhecimento de: C#/.Net, Azure DevOps.
-  - Stewart: Domínio e conhecimento de: C#/.Net, Azure DevOps.
 
-|integrante|##pontos positivos|##observacao de melhoria|
-|----------|------------------|------------------------|
-|Elizeu |hhhh|kkkk|
-|Helton |jjjj|llll|
-|Stewart|iiii|oooo|
+|integrante|pontos positivos|observacao de melhoria|
+|-|-|-|
+|Elizeu |Facilidade e comunicação e interação entre a equipe|Domínio e conhecimento de: C#/.Net, Azure DevOps.|
+|Helton |Analítico e detalhista|Domínio e conhecimento de: C#/.Net, Azure DevOps.|
+|Stewart|Facilidade de Gestão de Projeto, analise de requisitos|Domínio e conhecimento de: C#/.Net, Azure DevOps.|
