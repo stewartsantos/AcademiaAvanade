@@ -57,10 +57,10 @@ Segue arquitetura, linguagem e componentes utilizados na aplicação:
   - Sprint semana 1
   > Iniciamos todo processo 
   - __entregas:__
-  - [] Repositório GIT;
-  - [] README do GIT;
-  - [] Critérios da escolha da Equipe;
-  - [] Pontos positivos e a melhorar da equipe;
+  - [ ] Repositório GIT;
+  - [ ] README do GIT;
+  - [ ] Critérios da escolha da Equipe;
+  - [ ] Pontos positivos e a melhorar da equipe;
   
 #### Daly Meeting
 
