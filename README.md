@@ -37,7 +37,7 @@ Segue arquitetura, linguagem e componentes utilizados na aplicação:
   > Por ter uma certa vivencia com as cerimonias.
   - __Dev Team:__ Elizeu, Helton, Stewart
 
-### Cerimoniais do Scrum
+### Artefatos do Scrum
 
 #### Backlog Produto
   - login/logout
@@ -52,16 +52,18 @@ Segue arquitetura, linguagem e componentes utilizados na aplicação:
   - Passagens compradas/reservadas (Favoritar passagens)
   - Passagens favoritas 
   - Integração com redes sociais (Compartilhar Passagem)
-
-#### Sprint Planning
-  > Planejamentos de como seriam os Epicos candidatos a primeira sprint e atribuicao de pontuacao para ordenacao no backlog do produto. 
   
 #### Sprint Backlog
   - [ ] Repositório GIT;
   - [ ] README do GIT;
   - [ ] Critérios da escolha da Equipe;
   - [ ] Pontos positivos e a melhorar da equipe;
-  
+
+### Cerimoniais do Scrum
+
+#### Sprint Planning
+  > Planejamentos de como seriam os Epicos candidatos a primeira sprint e atribuicao de pontuacao para ordenacao no backlog do produto. 
+
 #### Daly Meeting
 > Reunioes do time para discussoes de features e regras de negocios, andamento de tasks e atribuicoes das mesmas. duracao normal de 15 min. 
 
