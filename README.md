@@ -1,9 +1,9 @@
-# Academia Avanade
+# GoPass
 > Sistema de reservas e compras de passagens aéreas.
 
-## Visao geral
+### Funcionalidades principais
 
-O sistema deverá realizar a reserva e pagamento de passagens aéreas
+O sistema deverá realizar a reserva e pagamento de passagens aéreas, podendo o usuario realizar filtros incluindo origem/destino, datas, por relevancia, por melhor preco,
 
   - Logar no sistema GoPass, se for a primeira vez efetuar o cadastro
   - Efetura uma reserva de passagem disponível
@@ -31,9 +31,11 @@ Segue arquitetura, linguagem e componentes utilizados na aplicação:
 * [FDQuery] - Utilizado para realização das consultas e inserções na tabela de log
 
 ## Papeis
-  - Product Owner: Helton Lizandro
-  - Scrum Master: Stewart Santos
-  - Dev Team: Elizeu, Helton, Stewart
+  - __Product Owner:__ Helton Lizandro
+  > Devido a uma maior familiaridade com a regra de negocio, foi nomeado como Product Owner.
+  - __Scrum Master:__ Stewart Santos
+  > Por ter uma certa vivencia com as cerimonias.
+  - __Dev Team:__ Elizeu, Helton, Stewart
 
 ### Cerimoniais do Scrum
 
@@ -53,10 +55,12 @@ Segue arquitetura, linguagem e componentes utilizados na aplicação:
 
 #### Sprint Planning
   - Sprint semana 1
-  - Repositório GIT
-  - README do GIT
-  - Critérios da escolha da Equipe
-  - Pontos positivos e a melhorar da equipe
+  > Iniciamos todo processo 
+  - __entregas:__
+  - [] Repositório GIT;
+  - [] README do GIT;
+  - [] Critérios da escolha da Equipe;
+  - [] Pontos positivos e a melhorar da equipe;
   
 #### Daly Meeting
 
