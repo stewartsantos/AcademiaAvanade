@@ -79,3 +79,8 @@ Segue arquitetura, linguagem e componentes utilizados na aplicação:
   - Helton: Domínio e conhecimento de: C#/.Net, Azure DevOps.
   - Stewart: Domínio e conhecimento de: C#/.Net, Azure DevOps.
 
+|integrante|##pontos positivos|##observacao de melhoria|
+|----------|------------------|------------------------|
+|Elizeu |hhhh|kkkk|
+|Helton |jjjj|llll|
+|Stewart|iiii|oooo|
