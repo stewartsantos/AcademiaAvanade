@@ -1,6 +1,7 @@
 # Academia Avanade
+> Sistema de reservas e compras de passagens aéreas.
 
-# Projeto - Reserva de Passagens Aéreas
+## Visao geral
 
 O sistema deverá realizar a reserva e pagamento de passagens aéreas
 
@@ -8,7 +9,7 @@ O sistema deverá realizar a reserva e pagamento de passagens aéreas
   - Efetura uma reserva de passagem disponível
   - Efetuar o pagamento de uma reserva (Meio de pagamentos)  
 
-## Características
+### Características
 
   - Consular passagens aéreas disponíveis para efetuar possíveis reservas
   - Realizar consultas das passagens reservadas ou pagas
@@ -17,7 +18,7 @@ Você também pode:
   - Cancelar a qualquer momento uma reserva
   - Visualizar o histórico das passagens do usuário  
 
-## Tecnologia
+### Tecnologia
 
 Segue a linguagem e componentes utilizado no software:
 
@@ -29,14 +30,14 @@ Segue a linguagem e componentes utilizado no software:
 * [FDConnectio] - Utilizado para conectar com o banco de dados "SQLite"
 * [FDQuery] - Utilizado para realização das consultas e inserções na tabela de log
 
-# Papeis
+## Papeis
   - Product Owner: Helton Lizandro
   - Scrum Master: Stewart Santos
   - Dev Team: Elizeu, Helton, Stewart
 
-## Cerimoniais do Scrum
+### Cerimoniais do Scrum
 
-### Backlog Produto
+#### Backlog Produto
   - login/logout
   - Função de validação de usuário e senha
   - Cadastro de Usuário
@@ -50,29 +51,30 @@ Segue a linguagem e componentes utilizado no software:
   - Passagens favoritas 
   - Integração com redes sociais (Compartilhar Passagem)
 
-### Sprint Planning
+#### Sprint Planning
   - Sprint semana 1
   - Repositório GIT
   - README do GIT
   - Critérios da escolha da Equipe
   - Pontos positivos e a melhorar da equipe
   
-### Daly Meeting
+#### Daly Meeting
 
-### Sprint Review
+#### Sprint Review
 
-### Sprint Retrospective
+#### Sprint Retrospective
+  
 
-## Critérios de Escolha do time
+#### Critérios de Escolha do time
   - Trabalho em equipe
   - Facilidade de se comunicar  
   
-## Pontos positivos
+#### Pontos positivos
   - Elizeu: Facilidade e comunicação e interação entre a equipe 
   - Helton: Analítico e detalhista
   - Stewart: Facilidade de Gestão de Projeto, analise de requisitos
   
-## Pontos a Melhorar  
+#### Pontos a Melhorar  
   - Elizeu: Domínio e conhecimento de: C#/.Net, Azure DevOps.
   - Helton: Domínio e conhecimento de: C#/.Net, Azure DevOps.
   - Stewart: Domínio e conhecimento de: C#/.Net, Azure DevOps.
