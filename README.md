@@ -5,22 +5,22 @@
 
 O sistema deverá realizar a reserva e pagamento de passagens aéreas
 
-  - Logar no sistema www.voegol.com.br, se for a primeira vez efetuar o cadastro
+  - Logar no sistema GoPass, se for a primeira vez efetuar o cadastro
   - Efetura uma reserva de passagem disponível
   - Efetuar o pagamento de uma reserva (Meio de pagamentos)  
 
 ### Características
 
-  - Consular passagens aéreas disponíveis para efetuar possíveis reservas
-  - Realizar consultas das passagens reservadas ou pagas
+  - Consultar passagens aéreas disponíveis para efetuar possíveis reservas
+  - Realizar consultas das passagens reservadas ou pagas.
   
 Você também pode:
   - Cancelar a qualquer momento uma reserva
-  - Visualizar o histórico das passagens do usuário  
+  - Visualizar o histórico das passagens do usuário
 
 ### Tecnologia
 
-Segue a linguagem e componentes utilizado no software:
+Segue arquitetura, linguagem e componentes utilizados na aplicação:
 
 * [Visual Studio] - IDE utilizada para desenvolvimento da aplicação!
 * [IdHTTP] - Componente utilizado para efetuar o GET do arquivo a ser baixado
