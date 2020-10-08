@@ -54,20 +54,22 @@ Segue arquitetura, linguagem e componentes utilizados na aplicação:
   - Integração com redes sociais (Compartilhar Passagem)
 
 #### Sprint Planning
-  - Sprint semana 1
-  > Iniciamos todo processo 
-  - __entregas:__
+  > Planejamentos de como seriam os Epicos candidatos a primeira sprint e atribuicao de pontuacao para ordenacao no backlog do produto. 
+  
+#### Sprint Backlog
   - [ ] Repositório GIT;
   - [ ] README do GIT;
   - [ ] Critérios da escolha da Equipe;
   - [ ] Pontos positivos e a melhorar da equipe;
   
 #### Daly Meeting
+> Reunioes do time para discussoes de features e regras de negocios, andamento de tasks e atribuicoes das mesmas. duracao normal de 15 min. 
 
 #### Sprint Review
+> ainda ira acontecer dia 09
 
 #### Sprint Retrospective
-  
+> ainda ira acontecer dia 09  
 
 #### Critérios de Escolha do time
   - Trabalho em equipe
